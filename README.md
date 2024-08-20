@@ -10,3 +10,5 @@ EfficientDet-Lite for
 6. Performance Tuning
 7. Training on Colab
 8. Projects
+
+![image](https://github.com/user-attachments/assets/81964c3a-2be5-43f1-8b52-27e9f0a41443)
